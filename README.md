@@ -39,5 +39,5 @@ To see the animation:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/atom-animation.git
+   git clone https://github.com/Shrinivas9739/atom-animation.git
 2. Open index.html in your browser   
